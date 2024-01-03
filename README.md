@@ -1,5 +1,5 @@
 - 👋 Hi, welcome to @SacredTails
-- 👀 We are developing a P2E PVP 3D battle game on BSC
+- 👀 We are developing a P2E PVP 3D battle game on Polygon
 - 🌱 NFT characters, landplots and movespheres
 - 💞️ Feel free to get in touch
 - 📫 @whisardly (TG) info@sacredtails.com
